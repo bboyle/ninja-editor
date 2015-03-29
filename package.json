@@ -1,0 +1,13 @@
+{
+  "title": "Ninja editor",
+  "name": "ninja-editor",
+  "version": "0.0.1",
+  "description": "Editorial quality checking, plus ninjas!",
+  "main": "index.js",
+  "author": "Ben Boyle <benjamins.boyle@gmail.com>",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "BSD"
+}
