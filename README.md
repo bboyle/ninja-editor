@@ -2,6 +2,8 @@
 
 Editorial quality checking, plus ninjas!
 
+![Ninja kick!](src/assets/ninja-kick.png)
+
 This tool will be a free addon for modern browsers (targeting Firefox, Chrome and IE) that will unleash helpful ninjas on pages you visit to identify editorial issues.
 
 ## Roadmap
